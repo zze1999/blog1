@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#why-i-chose-data-science",
+    "href": "posts/welcome/index.html#why-i-chose-data-science",
+    "title": "Welcome To My Blog",
+    "section": "Why I Chose Data Science",
+    "text": "Why I Chose Data Science\nI became interested in data science because I enjoy analyzing game statistics and exploring patterns in data. Over time, I found that not only was there a growing demand for data-driven positions but that data science could solve real-world problems, from improving healthcare outcomes to optimizing business strategies. This further contributed to my decision to pursue a career in this field.\nWhen researching programs, UBC’s MDS program stood out. Because I first needed to build a solid foundation, MDS focuses on practical skills and real-world applications. The course would provide hands-on experience in data extraction, data organization, and data visualization. In addition, the capstone project, where students work with a collaborative organization to solve real-world problems, will allow me to apply my skills in a professional setting(Mds Vancouver | Ubc Master of Data Science, n.d.)."
+  },
+  {
+    "objectID": "posts/welcome/index.html#starting-from-scratch",
+    "href": "posts/welcome/index.html#starting-from-scratch",
+    "title": "Welcome To My Blog",
+    "section": "Starting from Scratch",
+    "text": "Starting from Scratch\nAs someone with no technical background, it can still be intimidating to dive into programming and statistics. To prepare myself, I started with free online resources. I would choose platforms like Coursera and YouTube to learn Python and R . I used these platforms to watch tutorials and familiarize myself with basic statistical concepts in order to build the confidence I needed to start learning the program.\n\nResources I Used\n\nCoursera: Python for Applied Data Science AI\nCoursera: Python Specialization\nYouTube: Intro to Python Programming\n\nDespite the effort, the MDS program is very fast-paced. I was overwhelmed by bi-weekly quizzes and weekly assignments. I often felt like I couldn’t keep up, but I reminded myself to keep going."
+  },
+  {
+    "objectID": "posts/welcome/index.html#life-as-an-mds-student",
+    "href": "posts/welcome/index.html#life-as-an-mds-student",
+    "title": "Welcome To My Blog",
+    "section": "Life as an MDS Student",
+    "text": "Life as an MDS Student\nThe MDS program at UBC is very fast-paced. Each week’slecture introduces new concepts and techniques, from machine learning to advanced data visualization. I think machine learning had the biggest impact on my me. I learned how algorithms work and how to apply them to real-world problems through this course. I will never forget the satisfaction I felt when I trained my first predictive model.\nAnother highlight of the course was the teamwork. Teamwork is very important at work, and also at MDS where almost every project requires collaboration with classmates. For instance, during team project in DSCI522, our team uses machine learning to predict car acceptability. One of my job duties is to explore the target variable distribution in a dataset. Below is a visualization we created to identify and address class imbalances:\n This chart helped me understand data imbalances and how they impact modeling strategies.\nMy classmates became my greatest allies. We often study together and share knowledge about life and learning. This taught me the importance of communication and mutual support."
+  },
+  {
+    "objectID": "posts/welcome/index.html#overcoming-challenges",
+    "href": "posts/welcome/index.html#overcoming-challenges",
+    "title": "Welcome To My Blog",
+    "section": "Overcoming Challenges",
+    "text": "Overcoming Challenges\nThe two biggest hurdles I faced were adjusting to the technology program and managing my time. As I try to catch up on quizzes and deadlines, I often take a back seat to sleep. I have a hard time balancing course requirements with my need for rest and self-care.\nWhat helped me the most was seeking support. I would ask my friends at MDS for help when I had questions. I would also attend office hours regularly to figure out concepts. This has helped me to develop regular habits. To improve my productivity and mental health, I allocated specific time for studying, practicing and resting."
+  },
+  {
+    "objectID": "posts/welcome/index.html#lessons-learned",
+    "href": "posts/welcome/index.html#lessons-learned",
+    "title": "Welcome To My Blog",
+    "section": "Lessons Learned",
+    "text": "Lessons Learned\nThis journey is both a process of personal growth. It has also been a process of learning technical skills. Here are some of the key lessons I’ve learned:\n\nPersistence Pays Off: Data science is challenging for beginners.So we have to persevere with a growth mindset, which helped me overcome the difficulties.\nFailure is a Good Teacher: I learned to see mistakes and setbacks as opportunities for improvement.\nSupport is Invaluable: My classmates, mentors, and program resources have been instrumental in my success."
+  },
+  {
+    "objectID": "posts/welcome/index.html#tips-for-aspiring-data-scientists",
+    "href": "posts/welcome/index.html#tips-for-aspiring-data-scientists",
+    "title": "Welcome To My Blog",
+    "section": "Tips for Aspiring Data Scientists",
+    "text": "Tips for Aspiring Data Scientists\nIf you’re considering a career in data science, here are some tips based on my experience:\n\nWe need to keep learning and exploring. This is because the field iterates very quickly and there is always new knowledge, new tools and new techniques to learn.\nYou can start learning the basics of programming and statistics. Courses like the ones on Coursera that have a lot of basics are good starting points. Don’t try to learn everything at once so that you don’t put too much pressure on yourself both mentally and physically.\nI understand that some people may think that working in programming reduces the need for communication(Published, 2023). You can try joining study groups and attending meetups. You will find that learning becomes easier and more fun when you are not alone!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#conclusion",
+    "href": "posts/welcome/index.html#conclusion",
+    "title": "Welcome To My Blog",
+    "section": "Conclusion",
+    "text": "Conclusion\nBy participating in UBC’s MDS program, I managed to become a data scientist from the ground up. In this 10-month crash course, I went from knowing nothing about the technology to being fully capable of doing intense work, which was a huge step for me. The course was very gruelling. Nonetheless, every challenge I faced was overcome with hard work, which gave me a great sense of accomplishment.\nFor those who are considering going down this path, I would advise them to be brave and at least start the process. Whether it’s enrolling in an online program or applying to a graduate school, just take the first step. If I can accomplish this, then so can you!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#references",
+    "href": "posts/welcome/index.html#references",
+    "title": "Welcome To My Blog",
+    "section": "References",
+    "text": "References\n\nPublished, M. com. (2023, January 17). 14 high-paying jobs for low-skill communicators. Military.com. Retrieved January 17, 2025, from https://www.military.com/veteran-jobs/career-advice/job-hunting/15-high-paying-jobs-for-low-skill-communicators.html\nA journey of a thousand miles begins with a single step. (n.d.). Pinterest. Retrieved January 16, 2025, from https://www.pinterest.com/pin/209558188900118870/\nMDS Vancouver | UBC Master of Data Science. (n.d.). Retrieved January 17, 2025, from https://masterdatascience.ubc.ca/programs/vancouver"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code. My Journey Through MDS in UBC …."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nZuer Zhong\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nZuer Zhong\n\n\n\n\n\n\nNo matching items"
+  }
+]
