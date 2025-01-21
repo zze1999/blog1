@@ -7,4 +7,4 @@ image: "image.jpg"
 ---
 
 This is a post with executable code.
-My Journey Through MDS at UBC
+My Journey Through MDS in UBC ....
