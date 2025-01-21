@@ -4,9 +4,8 @@ author: "Zuer Zhong"
 date: "2025-01-16"
 categories: [news]
 ---
----
-title: "From Zero to Data Science: My Journey Through MDS at UBC"
----
+
+This is the first post in a Quarto blog. Welcome!
 
 ![](thumbnail.jpg)
 
